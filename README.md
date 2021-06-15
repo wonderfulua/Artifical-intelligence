@@ -3,5 +3,5 @@
 something about finger point show
 
 
-editor Url : colab.google.search.com
+editor Url : colab.research.google.com
              or jupyternotebook
